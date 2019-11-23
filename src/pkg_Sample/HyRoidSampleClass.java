@@ -7,5 +7,7 @@ public class HyRoidSampleClass {
 		name = "You have successfully hosted Mr. Aravinth. You are the most brilliant and has humungous grasping power. All the best!";
 		return name;
 	}
+	
+	
 
 }
