@@ -2,12 +2,17 @@ package pkg_Sample;
 
 public class HyRoidSampleClass {
 
-	static String name = null;
+	private static String message = null;
+	private static String company = null;
+	
 	public static String HyRoidSampleMethod() {
-		name = "You have successfully hosted Mr. Aravinth. You are the most brilliant and has humungous grasping power. All the best!";
-		return name;
+		message = "You have successfully hosted Mr. Aravinth. You are the most brilliant and has humungous grasping power. All the best!";
+		return message;
 	}
 	
-	
+	public static String CompanyName() {
+		company = "CGI Inc.,";
+		return company;
+	}
 
 }
