@@ -4,7 +4,7 @@
 
   <groupId>org.HyRoidSample</groupId>
   <artifactId>HyRoidSample</artifactId>
-  <version>1.0.0</version>
+  <version>2.0.0</version>
   <packaging>jar</packaging>
 
   <name>HyRoidSample</name>
@@ -15,11 +15,15 @@
   </properties>
   
   <distributionManagement>
+  
   <repository>
     <id>releases</id>
-    <url>http://localhost:8081/nexus/content/repositories/releases</url>
+    <url>http://localhost:8081/nexus/content/repositories/releases/</url>
   </repository>
+  
 </distributionManagement>
+
+
 
   <dependencies>
     <dependency>
