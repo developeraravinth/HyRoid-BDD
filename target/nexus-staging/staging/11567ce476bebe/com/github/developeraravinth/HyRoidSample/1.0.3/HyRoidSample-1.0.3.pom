@@ -5,7 +5,7 @@
 
 	<groupId>com.github.developeraravinth</groupId>
 	<artifactId>HyRoidSample</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 
 	<build>
 		<plugins>
@@ -79,7 +79,7 @@
 
 	<name>HyRoidSample</name>
 	<description>This is a sample to setup publish to Maven Central</description>
-	<url>https://github.com/developeraravinth/HyRoid-BDD</url>
+	<url>https://github.com/developeraravinth/HyRoidSample</url>
 
 	<licenses>
 		<license>
@@ -89,16 +89,16 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/developeraravinth/HyRoid-BDD.git</connection>
-		<developerConnection>scm:git:ssh://github.com:developeraravinth/HyRoid-BDD.git</developerConnection>
-		<url>https://github.com/developeraravinth/HyRoid-BDD</url>
+		<connection>scm:git:git://github.com/developeraravinth/HyRoidSample.git</connection>
+		<developerConnection>scm:git:ssh://github.com:developeraravinth/HyRoidSample.git</developerConnection>
+		<url>https://github.com/developeraravinth/HyRoidSample</url>
 	</scm>
 
 	<developers>
 		<developer>
 			<name>Aravinth</name>
 			<email>mailtoarvn@gmail.com</email>
-			<organization>org.HyRoid</organization>
+			<organization>com.github.developeraravinth</organization>
 			<organizationUrl>https://github.com/developeraravinth/</organizationUrl>
 		</developer>
 	</developers>
