@@ -5,7 +5,7 @@
 
 	<groupId>com.github.developeraravinth</groupId>
 	<artifactId>HyRoid-BDD</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>1.0.5</version>
 	<build>
 		<plugins>
 			<plugin>
